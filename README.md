@@ -4,7 +4,7 @@ Keybind
 Wrapper around [device_query](https://github.com/ostrosco/device_query) providing a nicer API, allowing you to trigger
 your logic on specific keybind.
 
-Full Documentation can be read [here](https://docs.rs/keybind/latest/keybind/).
+Full Documentation can be read [here](https://docs.rs/keybind/*/keybind/).
 
 ```rust
 use keybind::{Keybind, Keycode};
