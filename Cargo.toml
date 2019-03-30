@@ -1,0 +1,11 @@
+[package]
+name = "keybind"
+description = "Trigger logic on specific keybind."
+version = "0.1.0"
+license = "MIT"
+authors = ["kunicmarko20 <kunicmarko20@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/rustysoft/keybind"
+
+[dependencies]
+device_query = "0.1.1"
